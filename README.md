@@ -152,7 +152,7 @@ STREAM_API_KEY=your_stream_api_key_here
 STREAM_API_SECRET=your_stream_api_secret_here
 
 # Google Gemini API Key
-GEMINI_API_KEY=your_gemini_api_key_here
+GOOGLE_API_KEY=your_gemini_api_key_here
 ```
 
 **⚠️ Important Security Notes:**
