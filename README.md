@@ -6,13 +6,10 @@ Transform your applications with intelligent, real-time voice and video interact
 
 ## 🎬 Demo Video
 
-<!-- TODO: Add demo video here -->
-<!-- 
-Example formats:
-- YouTube: [![Demo Video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
-- Direct link: https://example.com/demo-video.mp4
-- GIF: ![Demo](demo.gif)
--->
+
+https://github.com/user-attachments/assets/c9feaed1-e047-4720-b082-fd01183b901e
+
+
 
 ---
 
@@ -58,7 +55,7 @@ uv add vision-agents
 By default, the SDK does not install with any packages. To install packages, you can run the following:
 
 ```bash  theme={null}
-uv add "vision-agents[getstream, openai, elevenlabs, deepgram]"
+uv add "vision-agents[getstream, gemini, openai, elevenlabs, deepgram]"
 ```
 
 Before running, you will also need a free API key from [Stream](https://getstream.io/try-for-free). Developers building with Stream each receive 333,000 participant minutes free each month and indie developers and small businesses can apply to our [Maker Program](https://getstream.io/chat/pricing/#free-for-maker) which includes an additional \$500 worth of credits each month. Each provider also provides free development keys on their respective websites.
